@@ -11,7 +11,7 @@ This is my personal API (known as the adinet), you can see all the code for the 
 Blueberry is a market data provisioner that uses market data from the Chicago Mercantile Exchange to provide forward-facing quotes data (including best bid/ask), this is exposed to the world for the sake of ``md.aditya.diwakar.io/recent/`` which is the HTTP method to receive a quote. You can see all Blueberry code [here](https://github.com/adityaxdiwakar/blueberry).
 
 ### Driplet
-Driplet is a systemctl and streamed file log system. This is exposed to the WAN for the sake of the [websocket](https://github.com/adityaxdiwakar/driplet-daemon), [API](https://github.com/adityaxdiwakar/driplet-api), and the [frontend](https//github.com/adityaxdiwakar/driplet-www). The code is linked.
+Driplet is a systemctl and streamed file log system. This is exposed to the WAN for the sake of the [websocket](https://github.com/adityaxdiwakar/driplet-daemon), [API](https://github.com/adityaxdiwakar/driplet-api), and the [frontend](https://github.com/adityaxdiwakar/driplet-www). The code is linked.
 
 ### Others
 All other configuration files do not have Github repositories, they are static components.
